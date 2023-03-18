@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--渐变颜色数组-->
+    <integer-array name="anamorphism_color_array">
+        <item>@color/text_ffa28ceb</item>
+        <item>@color/text_ff733bb8</item>
+    </integer-array>
+</resources>

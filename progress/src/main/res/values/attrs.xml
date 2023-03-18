@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--里程进度条-->
+    <declare-styleable name="MileageProgress">
+        <!--        整体的背景颜色-->
+        <attr name="mp_background" format="color" />
+        <!--        角度的宽-->
+        <attr name="mp_angle_width" format="dimension" />
+        <!--        渐变颜色-->
+        <attr name="mp_anamorphism_color" format="reference" />
+        <!--        最大进度-->
+        <attr name="mp_max_progress" format="float" />
+        <!--        默认进度-->
+        <attr name="mp_default_progress" format="float" />
+        <!--        告警进度-->
+        <attr name="mp_warn_progress" format="float" />
+        <!--        告警颜色-->
+        <attr name="mp_warn_background" format="color" />
+        <!--是否模糊颜色-->
+        <attr name="mp_is_dim_progress" format="boolean" />
+
+    </declare-styleable>
+</resources>
