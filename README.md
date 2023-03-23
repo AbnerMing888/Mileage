@@ -16,7 +16,7 @@ allprojects {
 
 ```groovy
 dependencies {
-    implementation 'com.vip:mprogress:1.0.0'
+    implementation 'com.vip:mprogress:1.0.1'
 }
 ```
 
@@ -30,7 +30,7 @@ dependencies {
 ## License
 
 ```
-Copyright (C) AbnerMing, VipDialog Open Source Project
+Copyright (C) AbnerMing, Mileage Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
