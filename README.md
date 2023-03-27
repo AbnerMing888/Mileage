@@ -1,6 +1,10 @@
 # Mileage
 一个自定义的平行四边形里程或者油量进度条
 
+## 效果展示
+
+<img src="image/mileage_rect.jpg" width="300px" />
+
 ## 快速开始
 
 1、在你的根项目下的build.gradle文件下，引入maven。
